@@ -14,27 +14,27 @@ import { MediaQuery } from '@/utils/mediaQueries'
 const categories = [
   {
     name: 'Flower',
-    image: 'https://assets.dispenseapp.com/highscore-cannabis/hs-flower.svg',
+    image: 'https://loremflickr.com/96/96/starwars',
     type: ProductType.FLOWER,
   },
   {
     name: 'Vapes',
-    image: 'https://assets.dispenseapp.com/highscore-cannabis/hs-vapes.svg',
+    image: 'https://loremflickr.com/96/96/darth-vader',
     type: ProductType.VAPORIZERS,
   },
   {
     name: 'Edibles',
-    image: 'https://assets.dispenseapp.com/highscore-cannabis/hs-edibles.svg',
+    image: 'https://loremflickr.com/96/96/yoda',
     type: ProductType.EDIBLES,
   },
   {
     name: 'Pre Rolls',
-    image: 'https://assets.dispenseapp.com/highscore-cannabis/hs-pre-rolls.svg',
+    image: 'https://loremflickr.com/96/96/lightsaber',
     type: ProductType.PRE_ROLLS,
   },
   {
     name: 'Topicals',
-    image: 'https://assets.dispenseapp.com/highscore-cannabis/hs-topicals.svg',
+    image: 'https://loremflickr.com/96/96/space',
     type: ProductType.TOPICALS,
   },
 ]

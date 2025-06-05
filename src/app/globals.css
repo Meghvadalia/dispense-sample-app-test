@@ -1,11 +1,12 @@
 :root {
-  --brand-primary: #52c0c7;
-  --brand-secondary: #58cb6e;
+  /* Star Wars themed palette */
+  --brand-primary: #FFE81F;
+  --brand-secondary: #ff0000;
 
   /* Colors */
-  --bg-color: #f7f3e0;
-  --text-color: var(--blue-dark);
-  --border-color: #c2bc9c;
+  --bg-color: #000000;
+  --text-color: #FFE81F;
+  --border-color: #444444;
   --brand-danger: #ef4d61;
   --brand-danger-lightest: #fbe9ec;
   --brand-warning: #ffc12e;

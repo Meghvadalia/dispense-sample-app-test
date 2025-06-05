@@ -307,7 +307,7 @@ export default function TopNav() {
                 display: block;
               `}
               alt={`${q_venue?.data?.name} logo`}
-              src="https://dispense-images.imgix.net/highscore/v2/hs-logo-white-icon.png"
+              src="https://loremflickr.com/150/47/starwars"
               height={47}
               width={150}
               priority={false}
@@ -331,7 +331,7 @@ export default function TopNav() {
                 display: block;
               `}
               alt={`${q_venue?.data?.name} logo`}
-              src="https://dispense-images.imgix.net/highscore/v2/hs-logo-white-icon.png"
+              src="https://loremflickr.com/200/62/starwars"
               height={62}
               width={200}
               priority={false}
@@ -364,8 +364,8 @@ export default function TopNav() {
           </a>
         </RightCol>
         <TopNavImage
-          alt="Highscore Nav Background"
-          src="https://dispense-images.imgix.net/highscore/v2/hs-nav-bg-2.png"
+          alt="Galactic Nav Background"
+          src="https://starwarsblog.starwars.com/wp-content/uploads/2015/11/TFA-Trailer-Image-1.jpg"
           fill
           quality={75}
           priority={false}
