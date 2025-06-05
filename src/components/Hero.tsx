@@ -80,10 +80,10 @@ export default function Hero() {
             color: 'var(--white)',
           }}
         >
-          High Score Cannabis
+          Galactic Cannabis Emporium
         </Typography>
         <HeroH1 variant="h1" as="h1" style={{ margin: 0, maxWidth: '700px' }}>
-          Where Every Strain is a High Score
+          Where the Force Guides Your High
         </HeroH1>
         <div
           css={css`
@@ -109,7 +109,7 @@ export default function Hero() {
               variant="primary"
               style={{ paddingInline: '80px' }}
             >
-              Order Online
+              Order from the Galaxy
             </Button>
           </Link>
           <Link
@@ -122,13 +122,13 @@ export default function Hero() {
               variant="secondary"
               style={{ paddingInline: '80px' }}
             >
-              Shop Specials
+              Galactic Deals
             </Button>
           </Link>
         </div>
       </HeroInner>
       <HeroImage
-        alt="Highscore Hero"
+        alt="Star Wars Hero"
         priority={true}
         loading={'eager'}
         height={165}
@@ -139,7 +139,7 @@ export default function Hero() {
           width: '100%',
           height: 'auto',
         }}
-        src={'https://dispense-images.imgix.net/highscore/v2/hs-hero-3.png'}
+        src={'https://starwarsblog.starwars.com/wp-content/uploads/2015/11/empireStrikesBack_wide-1536x864.jpeg'}
       />
     </Banner>
   )
